@@ -1,8 +1,8 @@
 # Golang code conventions used by Velocity developers
 
-This manual is based on https://github.com/vlct-io/code-conventions, it is not 100% compatible with [Code Review](https://code.google.com/p/go-wiki/wiki/CodeReviewComments).
+This manual is based on https://github.com/Unknwon/go-code-convention.git, it's not 100% aligned with [Code Review](https://code.google.com/p/go-wiki/wiki/CodeReviewComments).
 
-It is used by used internally by our developers; you can use these conventions at your own discretion.
+It is used internally by our developers; you can use these conventions at your own discretion.
 
 ---
 
